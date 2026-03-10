@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is IreH and I'm a Entry-Level Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Heri and I'm a Junior Developer, from Indonesia</h2>
 
 ###
 
