@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Heri and I'm a Junior Developer, from Indonesia</h2>
+<h2 align="left">Hi! My name is Heri and I'm a Junior Developer, from Indonesia</h2>
 
 ###
+
+<img align="left" height="150" src="https://media1.tenor.com/m/0IRNivMANQ4AAAAd/hu-tao-hu-tao-biting-plate.gif"  />
 
 <img align="right" height="150" src="https://media1.tenor.com/m/jbep11KituUAAAAC/seseren-hu-tao.gif"  />
 
